@@ -1,5 +1,5 @@
 {
-  "name": "cumc-dcpl-catalog",
+  "name": "CUMC DCPL Catalog",
   "description": "This catalog serves as a distribution mechanism for QuPath extensions created by the Columbia University Medical Center Digital & Computational Pathology lab",
   "extensions": [
     {
